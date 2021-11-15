@@ -1,0 +1,8 @@
+db.sqlite3
+chatbot_tutorial.sublime-workspace
+*.pyc
+.DS_Store
+bot_static
+requirements_old.txt
+
+git push https://nebeedtp:Anugit#21@github.com/nebeedtp/chatbot.git --all
